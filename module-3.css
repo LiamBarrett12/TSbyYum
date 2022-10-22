@@ -1,0 +1,28 @@
+* {
+      margin:0; 
+      padding:0;
+      
+    }
+
+
+nav {  
+     
+    background: #E6E6FA url('taynav.webp') no-repeat fixed
+    }
+
+h1 { 
+    text-align:center; 
+    text-transform:uppercase; 
+    color:#E6E6FA;
+
+
+  }
+
+section{ 
+     background:rgba(184,140,127,0.69) url('ts1.jpeg') no-repeat fixed
+      }
+
+
+.lyric { 
+         color :  #c897c9;
+     }
